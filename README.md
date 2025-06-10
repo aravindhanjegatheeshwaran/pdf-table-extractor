@@ -21,3 +21,5 @@
 
 5. **Run the extraction script**
     python main.py --extraction_config extraction_config.json
+
+Notes: Place the source file under the data folder.
