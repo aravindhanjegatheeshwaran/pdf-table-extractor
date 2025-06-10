@@ -1,0 +1,37 @@
+{
+    "59": [
+        "Symbol",
+        "Part Name",
+        "Material",
+        "Quantity",
+        "Part Number"
+    ],
+    "115": [
+        "Company Name",
+        "Designed By",
+        "Checked",
+        "Approved",
+        "DWG No",
+        "Revision",
+        "Part Number",
+        "Quantity",
+        "Description",
+        "Material",
+        "Dimension",
+        "Remarks"
+    ],
+    "116": [
+        "Company Name",
+        "Designed By",
+        "Checked",
+        "Approved",
+        "DWG No",
+        "Revision",
+        "Part Number",
+        "Quantity",
+        "Description",
+        "Material",
+        "Dimension",
+        "Remarks"
+    ]
+}

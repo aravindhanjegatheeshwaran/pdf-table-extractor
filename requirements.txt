@@ -1,0 +1,7 @@
+pdfplumber
+pytesseract
+pandas
+openpyxl
+opencv-python
+PyMuPDF
+loguru
